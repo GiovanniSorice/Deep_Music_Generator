@@ -12,11 +12,11 @@ Take a look at the Music_Generation_Transformer.ipynb notebook. You need a discr
 ## Results
 Here we show some plots we obtained during the optimization phase. 
  
-<img src="/report/img/plot/plot_full_64_0_drop.png" width="350"><img src="/report/img/plot/plot_full_64_0.1_drop.png" width="350">
+<img src="/report/img/Plot/full/plot_full_64_0_drop.png" width="350"><img src="/report/img/Plot/full/plot_full_64_0.1_drop.png" width="350">
 
-<img src="/report/img/plot/plot_piano_64_0_drop.png" width="350"><img src="/report/img/plot/plot_piano_64_0.1_drop.png" width="350">
+<img src="/report/img/Plot/piano/plot_piano_64_0_drop.png" width="350"><img src="/report/img/Plot/piano/plot_piano_64_0.1_drop.png" width="350">
 
-<img src="/report/img/plot/plot_pop_rock_64_0_drop.png" width="350"><img src="/report/img/plot/plot_pop_rock_64_0.1_drop.png" width="350">
+<img src="/report/img/Plot/pop_rock/plot_pop_rock_64_0_drop.png" width="350"><img src="/report/img/Plot/pop_rock/plot_pop_rock_64_0.1_drop.png" width="350">
 
 ## Acknowledgments
 This project was developed for the course of [Intelligent Systems for Pattern Recognition](https://esami.unipi.it/esami2/programma.php?c=42278&aa=2019&docente=BACCIU&insegnamento=&sd=0) at the University of Pisa under the guide of [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/).
