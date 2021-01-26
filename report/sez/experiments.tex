@@ -1,0 +1,11 @@
+\section{Conclusion and further approaches}
+\label{OAFMG}
+Music generation is an old and discussed argument and for this reason, different architectures can be used to solve this task.
+Different examples can be found in the paper \cite{music_survey}, like LSTM, BI-LSTM and others. Currently, the most performing and promising architectures are the transformer-based due to the attention mechanism.
+
+The current state of the art architectures for the transformer model introduce memory efficiency usage, reversible transformers and try to take in consideration the melody of the songs (\cite{eff_transf}, \cite{transformer_autoencoders}).
+In \cite{eff_transf}, the memory is exploited using LSH techniques combined with attention function. From the idea of this paper, I decided to exploit the memory usage with compressive transformers. A possible improvement that could be done is the encoding of more than one instrument for each note with also the temporal parameter set. In this way, during the generation of the music, more than one instrument could be associated with each note or chord generated making music more listenable and harmonious. 
+
+\begin{comment}
+\textbf{Possibile citazione ad altri paper} \textbf{Parlare della possibilità di fare encoding di più strumenti} \textbf{Come si può migliorare il mio modello?}
+\end{comment}
